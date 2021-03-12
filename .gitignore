@@ -1,0 +1,15 @@
+# dev
+.env
+.home/
+backups/
+
+# python
+*.pyc
+*.egg-info
+dist/
+
+# notebook
+.ipynb_checkpoints/
+
+# vim
+.*.sw?
